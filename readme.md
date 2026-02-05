@@ -4,5 +4,4 @@
 - All images are inside assets folder.
 - Each section is commented and separated bu comment. Both in html and css.
 - Some live links also used.
-
-# Project Picture
+- All webpage screenshot is present in /ss folder.
